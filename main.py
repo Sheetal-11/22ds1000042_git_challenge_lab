@@ -3,6 +3,7 @@
 # Tasks:
 
 # 1. Add a calculator logo
+from calculator_art import logo
 
 # 2. Add a additon feature to the calcualtor
 from add import add
