@@ -1,0 +1,19 @@
+# Calculator
+
+# Tasks:
+
+# 1. Add a calculator logo
+
+# 2. Add a additon feature to the calcualtor
+
+# 3. Add a subtraction feature to the calculator
+
+# 4. Add a multiplication feature to the calculator
+
+# 5. Add a division feature to the calculator
+
+def calculator ():
+
+    pass
+
+calculator()
