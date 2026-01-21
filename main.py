@@ -9,6 +9,7 @@
 # 3. Add a subtraction feature to the calculator
 
 # 4. Add a multiplication feature to the calculator
+from multiply import multiply
 
 # 5. Add a division feature to the calculator
 
