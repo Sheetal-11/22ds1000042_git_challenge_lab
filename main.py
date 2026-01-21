@@ -11,6 +11,7 @@ from add import add
 from subtract import subtract
 
 # 4. Add a multiplication feature to the calculator
+from multiply import multiply
 
 # 5. Add a division feature to the calculator
 
