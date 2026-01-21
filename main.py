@@ -5,6 +5,7 @@
 # 1. Add a calculator logo
 
 # 2. Add a additon feature to the calcualtor
+from add import add
 
 # 3. Add a subtraction feature to the calculator
 
