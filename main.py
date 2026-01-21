@@ -7,6 +7,7 @@
 # 2. Add a additon feature to the calcualtor
 
 # 3. Add a subtraction feature to the calculator
+from subtract import subtract
 
 # 4. Add a multiplication feature to the calculator
 
