@@ -8,6 +8,7 @@
 from add import add
 
 # 3. Add a subtraction feature to the calculator
+from subtract import subtract
 
 # 4. Add a multiplication feature to the calculator
 
