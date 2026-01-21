@@ -11,6 +11,8 @@
 # 4. Add a multiplication feature to the calculator
 
 # 5. Add a division feature to the calculator
+from divide import division
+
 
 def calculator ():
 
